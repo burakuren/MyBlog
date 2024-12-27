@@ -1,4 +1,4 @@
-# How to make safe uploads ?
+# Nasıl güvenli dosya yüklemesi sağlanır?
 
 https://blog.miguelgrinberg.com/post/handling-file-uploads-with-flask
 
